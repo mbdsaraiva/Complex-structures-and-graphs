@@ -1,4 +1,4 @@
-## LLM UTILIZADA - GEMINI
+## LLM UTILIZADA - GEMINI PRO 2.5
 
 ### Prompt 1
 Você é um assistente especializado em revisão de textos em língua portuguesa. Seu objetivo é ajudar a melhorar parágrafos enviados por mim.
