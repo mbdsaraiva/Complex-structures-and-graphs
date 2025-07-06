@@ -9,7 +9,7 @@ import os
 plt.style.use("ggplot")       # Sets the plot style to 'ggplot' for better aesthetics
 
 # Paths to the input files
-nodes_file = "DATABASE\GraphTest_nodes.txt "
+nodes_file = "DATABASE\GraphTest_nodes.txt"
 edges_file = "DATABASE\GraphTest_edges.txt"
 
 # Load data into DataFrames
