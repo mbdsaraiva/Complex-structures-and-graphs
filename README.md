@@ -33,6 +33,10 @@ DCA3702 - ALGORITMOS E ESTRUTURAS DE DADOS II
 ## <strong>2. DESENVOLVIMENTO</strong>
 
 
+#### 2.1 REQUISITO 01
+#### 2.2 REQUISITO 02
+#### 2.3 REQUISITO 03
+
 ---
 
 ## <strong>3. RESULTADOS</strong>
@@ -46,14 +50,13 @@ DCA3702 - ALGORITMOS E ESTRUTURAS DE DADOS II
 
 ## <strong>Informações Complementares</strong>
 
-Este repositório reúne todos os materiais utilizados para desenvolvimento do projeto, incluindo os notebooks com comentários detalhados, os arquivos de visualização e os links externos de apoio e divulgação do trabalho.
+Este repositório reúne todos os materiais utilizados para desenvolvimento do projeto, incluindo os notebooks com comentários detalhados e os arquivos de visualização.
 
-- Página gerada no gephi [aqui](https://mbdsaraiva.github.io/Complex-structures-and-graphs/WEB/)
+- Página gerada no [GEPHI](https://mbdsaraiva.github.io/Complex-structures-and-graphs/WEB/)
 
-- O artigo completo está publicado no Medium e pode ser acessado [neste link](https://medium.com/@minaelcampelo3/otimizando-redes-de-t%C3%A1xi-com-algoritmos-de-grafos-um-estudo-de-caso-em-natal-rn-20951540e9b2).
-- Um podcast explicativo foi gerado no NotebookLM e pode ser ouvido [aqui](https://notebooklm.google.com/notebook/1ef43f50-b5ad-4cc4-8924-2207106b0489/audio).
-- Os prompts utilizados durante o processo estão documentados na pasta [`MD`](https://github.com/Minnael/ESTRUTURAS-DE-DADOS-II/tree/master/PROJETO%2006/MD).
-- O notebook em Python com toda a lógica do algoritmo está disponível na pasta [`JUPYTER`](https://github.com/Minnael/ESTRUTURAS-DE-DADOS-II/tree/master/PROJETO%2006/JUPYTER).
+- Os prompts utilizados durante o processo estão documentados na pasta [`MD`](https://github.com/mbdsaraiva/Complex-structures-and-graphs/tree/main/MD).
+
+- O notebook em Python com toda a lógica do algoritmo bem como os dados aqui utilizados está disponível na pasta [`JUPYTER`](https://github.com/mbdsaraiva/Complex-structures-and-graphs/tree/main/JUPYTER).
 
 ---
 
