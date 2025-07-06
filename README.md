@@ -26,7 +26,11 @@ DCA3702 - ALGORITMOS E ESTRUTURAS DE DADOS II
 
 ## <strong>1. PROBLEMÁTICA</strong>
 
+A análise de redes complexas tem se mostrado uma ferramenta poderosa para compreender a estrutura e o comportamento de sistemas em diversas áreas do conhecimento. No contexto desta atividade, propõe-se a utilização da ferramenta Gephi para explorar uma rede anonimizada fornecida pelo professor, aplicando os conceitos discutidos ao longo do curso. A proposta central é transformar uma estrutura abstrata de conexões em visualizações compreensíveis, que revelem propriedades estruturais importantes por meio de métricas de centralidade, comunidades e organização em núcleos.
 
+Para isso, a tarefa é dividida em três frentes. Primeiramente, busca-se gerar visualizações em que o tamanho dos vértices represente o número de vizinhos (grau), enquanto as cores indiquem alguma centralidade relevante (como *Closeness*, *Betweenness* ou *Eigenvector Centrality*). Em seguida, a análise se aprofunda com a representação de *k-core* e *k-shell*, que evidencia os vértices mais densamente conectados da rede, revelando sua estrutura interna. Por fim, deve-se aplicar uma detecção de comunidades semelhante à discutida na Semana 14, permitindo observar agrupamentos naturais da rede e atribuir significados às suas subdivisões.
+
+A problemática, portanto, está em como extrair e comunicar, por meio de representações gráficas e métricas quantitativas, características significativas da rede que auxiliem na sua interpretação. Isso exige a escolha criteriosa de layouts, métricas e cores que maximizem a clareza visual e evidenciem os padrões estruturais relevantes. A atividade se insere em um cenário didático que busca não apenas aplicar conhecimentos técnicos, mas também desenvolver a capacidade crítica de interpretar redes complexas em diferentes níveis de profundidade.
 
 ---
 
