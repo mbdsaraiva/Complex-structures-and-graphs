@@ -148,7 +148,7 @@ python main.py
 
 ### 2. Execução Interativa via Jupyter Notebook
 
-Também é possível executar o projeto de forma interativa por meio do Jupyter Notebook disponível na pasta `jupyter`. Essa abordagem é recomendada para análises exploratórias ou ajustes manuais nos passos do projeto.
+Também é possível executar o projeto de forma interativa por meio do Jupyter Notebook disponível na pasta `JUPYTER`. Essa abordagem é recomendada para análises exploratórias ou ajustes manuais nos passos do projeto.
 
 #### 💻 Comandos no terminal:
 
