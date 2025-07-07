@@ -37,7 +37,7 @@ A problemática, portanto, está em como extrair e comunicar, por meio de repres
 
 #### 2.1 REQUISITO 01
 
-O primeiro requisito propõe a criação de uma visualização da rede em que o tamanho dos vértices seja proporcional ao número de vizinhos (grau), enquanto as cores indiquem uma das métricas de centralidade — Closeness, Betweenness ou Eigenvector Centrality. Essa etapa busca destacar os vértices mais influentes ou centrais segundo diferentes critérios de conectividade e proximidade. A escolha de um layout adequado é essencial para garantir uma boa percepção visual das variações de cor e tamanho, facilitando a identificação de padrões estruturais relevantes. As figuras geradas devem ser acompanhadas de uma descrição interpretativa, relacionando os aspectos visuais com as propriedades topológicas da rede.
+O primeiro requisito propõe a criação de uma visualização da rede em que o tamanho dos vértices seja proporcional ao número de vizinhos (grau), enquanto as cores indiquem uma das métricas de centralidade — Closeness, Betweenness, Degree ou Eigenvector Centrality. Essa etapa busca destacar os vértices mais influentes ou centrais segundo diferentes critérios de conectividade e proximidade. A escolha de um layout adequado é essencial para garantir uma boa percepção visual das variações de cor e tamanho, facilitando a identificação de padrões estruturais relevantes. As figuras geradas devem ser acompanhadas de uma descrição interpretativa, relacionando os aspectos visuais com as propriedades topológicas da rede.
 
 #### 2.2 REQUISITO 02
 
