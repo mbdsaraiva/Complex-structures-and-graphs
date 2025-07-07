@@ -126,3 +126,38 @@ Este repositório reúne todos os materiais utilizados para desenvolvimento do p
 
 ---
 
+## <strong>Detalhes Para a Reprodução do Código</strong>
+A reprodução deste projeto pode ser realizada de duas formas distintas:
+
+### 1. Execução Direta via Script Python
+
+Basta executar o arquivo `main.py`, localizado na raiz do projeto. Esse script contém a lógica principal para gerar os resultados desejados de forma automatizada.
+
+#### 💻 Comandos no terminal:
+
+```bash
+# Clonar o repositório (se ainda não tiver feito)
+git clone https://github.com/mbdsaraiva/Complex-structures-and-graphs.git
+
+# Acessar a pasta do projeto
+cd Complex-structures-and-graphs
+
+# Executar o script principal
+python main.py
+```
+
+### 2. Execução Interativa via Jupyter Notebook
+
+Também é possível executar o projeto de forma interativa por meio do Jupyter Notebook disponível na pasta `jupyter`. Essa abordagem é recomendada para análises exploratórias ou ajustes manuais nos passos do projeto.
+
+#### 💻 Comandos no terminal:
+
+```bash
+# Clonar o repositório (se ainda não tiver feito)
+git clone https://github.com/mbdsaraiva/Complex-structures-and-graphs.git
+
+# Acessar a pasta do notebook
+cd Complex-structures-and-graphs/jupyter
+
+# Iniciar o Jupyter Notebook
+jupyter notebook
