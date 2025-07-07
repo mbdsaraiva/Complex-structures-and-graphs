@@ -120,6 +120,8 @@ Este repositório reúne todos os materiais utilizados para desenvolvimento do p
 
 - Página gerada no [GEPHI](https://mbdsaraiva.github.io/Complex-structures-and-graphs/WEB/)
 
+- Link do vídeo explicativo no [YOUTUBE](https://youtu.be/cI4JbkVWgzE)
+
 - Os prompts utilizados durante o processo estão documentados na pasta [`MD`](https://github.com/mbdsaraiva/Complex-structures-and-graphs/tree/main/MD).
 
 - O notebook em Python com toda a lógica do algoritmo bem como os dados aqui utilizados está disponível na pasta [`JUPYTER`](https://github.com/mbdsaraiva/Complex-structures-and-graphs/tree/main/JUPYTER).
