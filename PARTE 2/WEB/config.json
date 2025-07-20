@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Matheus Bezerra Dantas Saraiva"
+  },
+  "text": {
+    "more": "Esta rede representa a estrutura tridimensional da proteína 1A3N a partir de uma abordagem de grafos. Cada nó corresponde a um resíduo de aminoácido específico da proteína, identificado por sua cadeia, número de posição e tipo. As arestas conectam pares de resíduos que estão próximos no espaço, com base em um critério de distância (geralmente inferior a 5 Å), o que sugere possíveis interações estruturais relevantes, como contatos físico-químicos. A visualização permite analisar a conectividade entre diferentes regiões da proteína, ajudando a identificar padrões estruturais, regiões centrais (hubs) e potenciais áreas funcionais.",
+    "intro": "Rede de interações estruturais da proteína 1A3N, onde os nós representam aminoácidos individuais e as arestas indicam proximidade espacial entre eles, sugerindo possíveis interações dentro da estrutura tridimensional.",
+    "title": "Rede de Interações da Proteína 1A3N"
+  },
+  "legend": {
+    "edgeLabel": "Interações estruturais entre aminoácidos (baseadas na proximidade espacial)",
+    "colorLabel": "Community",
+    "nodeLabel": "Aminoácidos (resíduos individuais da proteína)"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Degree"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
