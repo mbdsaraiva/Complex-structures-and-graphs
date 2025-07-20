@@ -118,7 +118,7 @@ A visualização interativa está disponível na seção **Informações Complem
 
 Este repositório reúne todos os materiais utilizados para desenvolvimento do projeto, incluindo os notebooks com comentários detalhados e os arquivos de visualização.
 
-- Página gerada no [GEPHI](https://mbdsaraiva.github.io/Complex-structures-and-graphs/WEB/)
+- Página gerada no [GEPHI](https://mbdsaraiva.github.io/Complex-structures-and-graphs/PARTE%202/WEB/#)
 
 - Link do vídeo explicativo no [YOUTUBE](https://youtu.be/cI4JbkVWgzE)
 
