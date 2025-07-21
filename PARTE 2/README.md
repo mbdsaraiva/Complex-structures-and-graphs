@@ -104,7 +104,7 @@ Por fim, nesta figura, os nós são coloridos de acordo com a centralidade de au
 #### Análise de Núcleo: **K-core e K-shell**
 
 <p align="center">
-  <img src="IMGs/K_CORE_WITH_LEGEND.png" alt="k-core e k-shell" width=500/>
+  <img src="IMGs/k_core_with_legend.png" alt="k-core e k-shell" width=500/>
 </p>
 
 A imagem acima evidencia a estrutura da rede por meio da decomposição em *k-core* e *k-shell*. Os nós destacados em vermelho pertencem ao núcleo 3-core, ou seja, formam um subgrafo no qual cada vértice possui, no mínimo, três conexões com outros vértices do mesmo grupo. Já os nós em amarelo compõem o 2-shell, representando uma camada menos densa ao redor do núcleo. O tamanho dos vértices foi ajustado de forma proporcional ao grau (número de conexões), permitindo identificar os vértices mais conectados dentro de cada camada.
