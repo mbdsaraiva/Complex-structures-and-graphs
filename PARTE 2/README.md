@@ -80,7 +80,7 @@ Na figura acima, o tamanho dos nós representa o grau de conectividade (número 
 #### Métrica de Centralidade: **Closeness**
 
 <p align="center">
-  <img src="IMGs/CLOSENESS.png" alt="Closeness Centrality" width=500/>
+  <img src="IMGs/Closeness.png" alt="Closeness Centrality" width=500/>
 </p>
 
 Nesta visualização, a coloração reflete a centralidade de proximidade (*Closeness Centrality*), evidenciando os nós que possuem menor distância média até os demais. Quanto mais claro o tom, maior é a capacidade do vértice de alcançar rapidamente os outros elementos da rede.
@@ -88,7 +88,7 @@ Nesta visualização, a coloração reflete a centralidade de proximidade (*Clos
 #### Propriedade de Grau: **Degree**
 
 <p align="center">
-  <img src="IMGs/DEGREE.png" alt="Degree Centrality" width=500/>
+  <img src="IMGs/Degree.png" alt="Degree Centrality" width=500/>
 </p>
 
 A imagem acima apresenta os nós dimensionados proporcionalmente ao seu grau. Os nós maiores são os que possuem mais conexões diretas com outros vértices. Essa representação facilita a identificação de hubs locais que atuam como pontos centrais de atividade na rede.
@@ -96,7 +96,7 @@ A imagem acima apresenta os nós dimensionados proporcionalmente ao seu grau. Os
 #### Métrica de Centralidade: **Eigenvector**
 
 <p align="center">
-  <img src="IMGs/EIGENVECTOR.png" alt="Eigenvector Centrality" width=500/>
+  <img src="IMGs/Eigenvector.png" alt="Eigenvector Centrality" width=500/>
 </p>
 
 Por fim, nesta figura, os nós são coloridos de acordo com a centralidade de autovetor (*Eigenvector Centrality*), que considera não apenas o número de conexões de um vértice, mas também a importância dos vizinhos com os quais ele está conectado. Isso permite detectar influência estrutural mais ampla na rede.
