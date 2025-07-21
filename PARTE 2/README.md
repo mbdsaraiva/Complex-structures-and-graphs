@@ -122,11 +122,11 @@ As distribuições de grau, tanto a PDF quanto a CDF, oferecem uma visão quanti
 A estimativa de densidade por KDE (Kernel Density Estimation), aplicada tanto na PDF quanto na CDF, introduz uma suavização da distribuição. Isso é vantajoso para evidenciar padrões gerais de conectividade, sem os ruídos das frequências discretas. No caso da PDF suavizada, observa-se uma curva assimétrica com cauda longa à direita, indicando a presença de poucos nós com grau elevado os chamados hubs enquanto a maior parte da rede está concentrada em baixos graus. Já a CDF suavizada torna mais fácil identificar os pontos de inflexão na acumulação de probabilidade, o que ajuda na definição de percentis de distribuição de grau.
 
 <p align="center">
-  <img src="IMGs/PDF.jpg" alt="k-core e k-shell" width=500/>
+  <img src="IMGs/PDF.jpg" alt="k-core e k-shell" width=700/>
 </p>
 
 <p align="center">
-  <img src="IMGs/CDF.jpg" alt="k-core e k-shell" width=500/>
+  <img src="IMGs/CDF.jpg" alt="k-core e k-shell" width=700/>
 </p>
 
 A estimativa de densidade por KDE (Kernel Density Estimation), aplicada tanto na PDF quanto na CDF, introduz uma suavização da distribuição. Isso é vantajoso para evidenciar padrões gerais de conectividade, sem os ruídos das frequências discretas. No caso da PDF suavizada, observa-se uma curva assimétrica com cauda longa à direita, indicando a presença de poucos nós com grau elevado os chamados hubs — enquanto a maior parte da rede está concentrada em baixos graus. Já a CDF suavizada torna mais fácil identificar os pontos de inflexão na acumulação de probabilidade, o que ajuda na definição de percentis de distribuição de grau.
