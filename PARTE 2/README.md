@@ -72,7 +72,7 @@ A seguir, apresentamos as visualizações geradas no Gephi a partir da rede forn
 #### Métrica de Centralidade: **Betweenness**
 
 <p align="center">
-  <img src="IMGs/BETWEENESS.png" alt="Betweenness Centrality" width=500/>
+  <img src="IMGs/Betweeness.png" alt="Betweenness Centrality" width=500/>
 </p>
 
 Na figura acima, o tamanho dos nós representa o grau de conectividade (número de vizinhos), enquanto a coloração dos vértices é baseada na centralidade de intermediação (*Betweenness Centrality*). Os nós em tons mais quentes (vermelho e laranja) exercem papel fundamental como intermediários na comunicação entre diferentes regiões da rede.
