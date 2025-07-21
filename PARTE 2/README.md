@@ -133,6 +133,8 @@ A estimativa de densidade por KDE (Kernel Density Estimation), aplicada tanto na
 
 A análise multivariada entre métricas de centralidade permite observar como as diferentes medidas — grau, closeness, betweenness e eigenvector se relacionam. Gráficos de dispersão e curvas de densidade mostram que vértices com alto grau tendem a apresentar também maior centralidade de proximidade (closeness), pois estão, em média, mais próximos dos outros nós da rede. No entanto, essa correlação não é tão forte com a centralidade de autovetor (eigenvector), que leva em conta a influência dos vizinhos. Essa análise é essencial para distinguir os tipos de importância estrutural: enquanto alguns nós são centrais por estarem bem conectados diretamente, outros o são por se conectarem com nós também influentes ou por mediarem caminhos críticos (betweenness).
 
+A excentricidade reflete a posição topológica dos vértices: valores altos indicam nós periféricos, distantes da rede, enquanto valores baixos correspondem a vértices centrais, próximos dos demais. Essa métrica reforça a distinção entre periferia e centro observada nas análises de centralidade e grau.
+
 <p align="center">
   <img src="IMGs/RELACOES.jpg" alt="k-core e k-shell" width=500/>
 </p>
@@ -180,6 +182,9 @@ git clone https://github.com/mbdsaraiva/Complex-structures-and-graphs.git
 # Acessar a pasta do projeto
 cd Complex-structures-and-graphs
 
+# Acessar a parte 2
+cd PARTE 2
+
 # Executar o script principal
 python main.py
 ```
@@ -195,7 +200,13 @@ Também é possível executar o projeto de forma interativa por meio do Jupyter 
 git clone https://github.com/mbdsaraiva/Complex-structures-and-graphs.git
 
 # Acessar a pasta do notebook
-cd Complex-structures-and-graphs/jupyter
+cd Complex-structures-and-graphs
+
+# Acessar a parte 2
+cd PARTE 2
+
+# Acessar pasta de notebooks
+cd JUPYTER
 
 # Iniciar o Jupyter Notebook
 jupyter notebook
