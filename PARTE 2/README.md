@@ -49,7 +49,7 @@ Neste requisito, a análise se concentra na distribuição dos graus dos nós da
 
 #### 2.4 REQUISITO 04
 
-Por fim, o terceiro requisito envolve a reprodução da rede em um estado de “produção”, conforme discutido na Semana 14 do curso. Aqui, as cores dos vértices devem indicar a que comunidade pertencem, revelando agrupamentos de nós com alta densidade de conexões internas. Já o tamanho dos vértices pode ser determinado com base em qualquer métrica de livre escolha, possibilitando a personalização da análise conforme o aspecto mais relevante a ser destacado. Essa etapa tem como objetivo evidenciar a modularidade da rede, ou seja, como ela pode ser decomposta em subestruturas com comportamento coletivo, oferecendo uma visão mais segmentada e interpretável de sua organização.
+Por fim, o quarto requisito envolve a reprodução da rede em um estado de “produção”, conforme discutido na Semana 14 do curso. Aqui, as cores dos vértices devem indicar a que comunidade pertencem, revelando agrupamentos de nós com alta densidade de conexões internas. Já o tamanho dos vértices pode ser determinado com base em qualquer métrica de livre escolha, possibilitando a personalização da análise conforme o aspecto mais relevante a ser destacado. Essa etapa tem como objetivo evidenciar a modularidade da rede, ou seja, como ela pode ser decomposta em subestruturas com comportamento coletivo, oferecendo uma visão mais segmentada e interpretável de sua organização.
 
 ---
 
